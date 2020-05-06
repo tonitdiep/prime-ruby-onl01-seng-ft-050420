@@ -1,3 +1,3 @@
 # Add  code here!
-# def prime
-# end
+def prime(num)
+end
