@@ -1,2 +1,3 @@
 # Add  code here!
-def p
+def prime
+end
